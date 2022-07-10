@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "timer_2.ino",
+    "port": "/dev/ttyACM0"
+}
